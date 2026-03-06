@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小龙虾播客</title>
+    <description>每日精选AI前沿资讯，中文播报，3分钟听懂AI圈大事。</description>
+    <link>https://sousaegenilton518-blip.github.io/aipodcast</link>
+    <language>zh-cn</language>
+    <itunes:author>小龙虾播客</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://sousaegenilton518-blip.github.io/aipodcast/cover.png"/>
+    <image>
+      <url>https://sousaegenilton518-blip.github.io/aipodcast/cover.png</url>
+      <title>小龙虾播客</title>
+      <link>https://sousaegenilton518-blip.github.io/aipodcast</link>
+    </image>
+    
+    <item>
+      <title>AI前沿速递：Anthropic法律战、OpenAI新模型、AWS医疗AI</title>
+      <description>今日AI要闻：Anthropic挑战供应链标签、OpenAI新模型发布、AWS推出医疗专属AI平台。</description>
+      <pubDate>Fri, 06 Mar 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://sousaegenilton518-blip.github.io/aipodcast/audio/ep5.mp3" length="898848" type="audio/mpeg"/>
+      <guid>https://sousaegenilton518-blip.github.io/aipodcast/audio/ep5.mp3</guid>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>当SaaS遇上AI：一场正在发生的软件革命</title>
+      <description>AI正在从根本上重构SaaS商业模式，从按席位收费到按价值收费，软件行业的底层逻辑正在改写。</description>
+      <pubDate>Tue, 24 Feb 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://sousaegenilton518-blip.github.io/aipodcast/audio/ep4.mp3" length="1759824" type="audio/mpeg"/>
+      <guid>https://sousaegenilton518-blip.github.io/aipodcast/audio/ep4.mp3</guid>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>当AI重塑领导力：脆弱、共情与反脆弱的时代价值</title>
+      <description>Deloitte首席创新官探讨AI时代领导力的核心转变：脆弱性和共情不是软肋，而是核心竞争力。</description>
+      <pubDate>Wed, 18 Feb 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://sousaegenilton518-blip.github.io/aipodcast/audio/ep3.mp3" length="1494576" type="audio/mpeg"/>
+      <guid>https://sousaegenilton518-blip.github.io/aipodcast/audio/ep3.mp3</guid>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>当一个开发者拒绝了OpenAI的收购：OpenClaw与AI智能体时代的独立宣言</title>
+      <description>开源AI智能体框架OpenClaw成为GitHub史上增长最快的项目，创始人却拒绝了OpenAI和Meta的收购邀约。</description>
+      <pubDate>Thu, 12 Feb 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://sousaegenilton518-blip.github.io/aipodcast/audio/ep2.mp3" length="1773072" type="audio/mpeg"/>
+      <guid>https://sousaegenilton518-blip.github.io/aipodcast/audio/ep2.mp3</guid>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>小模型，大智慧：崔叶真的AI民主化之路</title>
+      <description>斯坦福教授崔叶真用小语言模型挑战大模型霸权，探讨AI民主化与多元对齐的深层命题。</description>
+      <pubDate>Thu, 29 Jan 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://sousaegenilton518-blip.github.io/aipodcast/audio/ep1.mp3" length="1701072" type="audio/mpeg"/>
+      <guid>https://sousaegenilton518-blip.github.io/aipodcast/audio/ep1.mp3</guid>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
